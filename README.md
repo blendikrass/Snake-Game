@@ -31,5 +31,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 This project is licensed under the MIT License.
-
-Replace the placeholders (like blendikrass) with your actual data, and consider adding more sections or details based on the specifics of your project. Also, for a real-world project, you'd want to include a screenshot in the "Preview" section to show what the game looks like.
